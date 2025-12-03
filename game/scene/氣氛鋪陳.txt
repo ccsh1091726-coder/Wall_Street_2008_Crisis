@@ -1,0 +1,11 @@
+playVideo:grok-video-1d4322a3-b461-4fbe-b9bd-9ea2c9311b36.mp4;
+intro:時間: 一個月後...2008年1月|地點: 史崔頓證券公司 Stratton Oakmont 紐約華爾街總部|狀況: 市場依然火熱，客戶渴望著更高的回報。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:ç¹å¿è¾¦å¬å®¤.png;
+changeFigure:Vince-removebg-preview.png -id=Vince 副總;
+Vince 副總:Alex，那個大客戶還在線上。他嫌定存利息太低，想要「刺激」一點的產品。 -notend;
+setTextbox:on;
+Vince 副總:你知道該推銷什麼給他吧! 當然是那由多種債權打包成的的擔保債權憑證 (CDO)，抽傭高達3%哦!;
+changeFigure:none -id=Vince 副總;
+Alex 副理:看著手上兩份文件: 一份是包裝成精美高信用評級AAA的垃圾債券 (CDO)，一份是安全的美國短天期國庫券;
+setTextbox:hide;
+choose:推銷高傭金的擔保債權憑證 (CDO):貪婪路線.txt|推銷保守的美國短天期國庫券:謹慎路線.txt;

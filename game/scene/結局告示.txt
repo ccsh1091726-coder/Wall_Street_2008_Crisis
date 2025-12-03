@@ -1,0 +1,5 @@
+playVideo:grok-video-4677ecc9-f498-4d44-aa82-b4e50fd22744.mp4;
+intro:【2008 金融海嘯：歷史回顧】 這場危機的起因，並非單一壞人的惡意，而是系統性的貪婪。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:起因: |1. 次級房貸 (Subprime Mortgage)： 銀行將錢借給還不起房貸的人，助長了房市泡沫|2. 證券化與 CDO： 投行將這些爛帳打包成複雜的金融商品，讓信評機構蓋上 AAA 章，賣給全世界。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:最終，泡沫破裂|雷曼兄弟倒閉，全球股市蒸發 10 兆美元。無數家庭失去房子，失業率飆升。|這教會我們：在金融市場中，沒有什麼是「大到不能倒」的。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

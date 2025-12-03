@@ -1,0 +1,10 @@
+playVideo:grok-video-ab9590aa-fec3-4bf3-9b51-ac799bdd5110.mp4;
+intro:時間: 2007年12月|地點: 紐約曼哈頓，華爾街證券公司 Stratton Oakmont 舉辦的夜總會|當日頭條: 道瓊指數創下歷史新高! 這場派對似乎永遠不會結束 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:ååéæ.png;
+miniAvatar:ä¸»è§1-removebg-preview.png;
+changeFigure:Vince-removebg-preview.png -right -id=Vince 副總;
+Vince 副總:Alex！你看這夜景！今年的獎金池擴大了30%，這就是華爾街的黃金時代！;
+changeFigure:none -id=Vince 副總;
+Alex 副理:心想:「香檳的氣泡聲掩蓋了一切。每個人都在慶祝，但我剛看到法巴銀行凍結基金的新聞...」;
+setTextbox:hide;
+choose:舉杯慶祝：「敬黃金時代！」:氣氛鋪陳.txt|看手機新聞心生疑慮：「我有種不好的預感...」:氣氛鋪陳.txt;

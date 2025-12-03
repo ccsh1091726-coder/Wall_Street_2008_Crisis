@@ -1,0 +1,17 @@
+playVideo:grok-video-32f659f2-e9e0-4a79-a73e-3630cdce8cef.mp4;
+intro:時間: 2008年6月|情況: 資本市場急凍，你的業績掛蛋 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:èéè¾¦å¬å®¤.png;
+changeFigure:Vince-removebg-preview.png -id=1;
+Vince 副總:Alex！你的業績掛蛋了！如果下半季再交不出數字，你就給我滾蛋！ -notend;
+setTextbox:on;
+changeFigure: -id=1;
+Alex 副理:Vince，別擔心。我會用更激進的話術。我保證能賣掉那些庫存。;
+setTextbox:hide;
+playVideo:grok-video-0a457af1-bacb-4c5c-86f1-1df615df2be5.mp4;
+intro:時間: 2008年7月|情況: 房地產市場開始跌，抵押貸款支援證券（MBS）價值也大幅下跌，你的公司流動性逐漸枯竭。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:æ´é¢¨é¨è¾¦å¬å®¤.png;
+Alex 副理:看著公司的內部報表...心想:「現金流快斷了，我們撐不過幾個月。」 -notend;
+setTextbox:on;
+Alex 副理:心想:「現在像監管機關(SEC)舉報或許能當英雄，但我會立刻失業。算了，裝作不知道吧，或許公司能挺過去...」;
+setTextbox:hide;
+changeScene:狼路線.txt;

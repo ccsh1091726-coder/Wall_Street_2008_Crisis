@@ -1,0 +1,9 @@
+playVideo:grok-video-d1ae3520-ecbd-497d-a18f-e1334c215ebe.mp4;
+changeBg:æ··äºè¡é ­.png;
+changeFigure:ä¸»è§2-removebg-preview.png;
+:公司倒閉，股票變廢紙。你因為之前買了太多房子，現在面臨法拍。 -notend;
+setTextbox:on;
+:你抱著紙箱走在街上，不明白為什麼努力工作最後卻一無所有。;
+:【結局 C：隨波逐流的代價】你是大多數人的縮影——在系統性風險面前，個人顯得如此渺小。;
+setTextbox:hide;
+changeScene:結局告示.txt;

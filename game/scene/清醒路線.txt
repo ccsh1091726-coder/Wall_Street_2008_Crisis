@@ -1,0 +1,17 @@
+playVideo:grok-video-32f659f2-e9e0-4a79-a73e-3630cdce8cef.mp4;
+intro:2008年6月，市場急凍。|情況: 資本市場急凍，你的業績掛蛋 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:èéè¾¦å¬å®¤.png;
+changeFigure:Vince-removebg-preview.png -id=1;
+Vince 副總:Alex！你的業績掛蛋了！如果下半季再交不出數字，你就給我滾蛋！ -notend;
+setTextbox:on;
+changeFigure: -id=1;
+Alex 副理:Vince，市場已經死了。沒人會買這些垃圾的。我們應該降低目標，保留現金。;
+setTextbox:hide;
+playVideo:grok-video-0a457af1-bacb-4c5c-86f1-1df615df2be5.mp4;
+intro:時間: 2008年7月|情況: 房地產市場開始跌，抵押貸款支援證券（MBS）價值也大幅下跌，你的公司流動性逐漸枯竭。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:æ´é¢¨é¨è¾¦å¬å®¤.png;
+Alex 副理:心裡想:「經過這幾個月的調查，我確認公司在詐欺。這艘船要沉了。」 -notend;
+setTextbox:on;
+Alex 副理:我決定匿名寫一封信給 SEC (證券交易委員會)，雖然不知道有沒有用，但我不能再保持沉默了。;
+setTextbox:hide;
+changeScene:英雄路練.txt;

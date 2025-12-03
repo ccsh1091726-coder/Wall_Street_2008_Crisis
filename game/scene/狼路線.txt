@@ -1,0 +1,11 @@
+playVideo:grok-video-ef75028a-2139-4bbe-8c61-c1570480ff4b.mp4;
+intro:時間: 2008年8月|情況: 金融風暴即將爆發 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:Gemini_Generated_Image_5yjpva5yjpva5yjp.png;
+changeFigure:Vince-removebg-preview.png -id=1;
+Vince 副總:Alex！Mr. Chen 捧著養老金在線上了！這筆 5000 萬的單子是我們最後的救命稻草！ -notend;
+setTextbox:on;
+Vince 副總:賣給他！這是命令！不然我們明天就得申請破產！;
+changeFigure: -id=1;
+Alex 副理:手心全是汗... 我已經回不去了。心裡想:「如果現在手軟，我之前做的一切都白費了，我的房子也會被法拍。」;
+setTextbox:hide;
+choose:梭哈吧！這是抄底的最後機會！:華爾街之狼.txt|這CDO金融商品有點複雜...您自己決定吧:代價破產.txt;

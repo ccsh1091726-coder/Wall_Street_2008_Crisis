@@ -1,0 +1,13 @@
+playVideo:grok-video-ca04bf2d-3de4-47a0-ae31-981eacb39eb6.mp4;
+changeBg:Gemini_Generated_Image_c81mmxc81mmxc81m.png;
+changeFigure:ä¸»è§1-removebg-preview.png -id=1;
+:回到老家中坐下來沉思，你失業了，沒有領到任何獎金，但似乎守住最後的良心與職業道德，但救下可能因此家破人亡的老客戶 -notend;
+setTextbox:on;
+changeFigure:none -id=1;
+changeFigure:Chen-removebg-preview.png -id=2;
+Mr. Chen:感謝你救了我的家人!!! (哭著說道);
+changeFigure:none -id=2;
+changeFigure:ä¸»è§1-removebg-preview.png;
+:【結局 B：清醒的倖存者】你證明了即使在最黑暗的時刻，良知依然存在。;
+setTextbox:hide;
+changeScene:結局告示.txt;

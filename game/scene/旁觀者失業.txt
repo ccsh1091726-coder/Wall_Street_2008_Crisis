@@ -1,0 +1,9 @@
+playVideo:grok-video-d1ae3520-ecbd-497d-a18f-e1334c215ebe.mp4;
+changeBg:æ··äºè¡é ­.png;
+changeFigure:ä¸»è§2-removebg-preview.png;
+:你因為之前的謹慎沒買房，保住了存款，但你也失去了工作。 -notend;
+setTextbox:on;
+:你想起 Mr. Chen... 明明知道真相，卻選擇了閉嘴。;
+:【結局 D：沉默的旁觀者】平庸之惡，往往來自於知情者的沈默。;
+setTextbox:hide;
+changeScene:結局告示.txt;

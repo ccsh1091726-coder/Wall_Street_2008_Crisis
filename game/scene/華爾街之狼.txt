@@ -1,0 +1,9 @@
+playVideo:grok-video-3a22b5a2-fb60-43a0-84d6-4a82f47afec4.mp4;
+changeBg:Gemini_Generated_Image_5csfnm5csfnm5csf.png;
+changeFigure:ä¸»è§3-removebg-preview.png;
+:看著樓下的抗議人群，你的帳戶裡有 500 萬美金的獎金。 -notend;
+setTextbox:on;
+:雖然 Mr. Chen 破產了，FBI 正在調查你... 但你活下來了，而且活得很富裕。;
+:【結局 A：華爾街之狼】你是這場災難的獲益者，也是道德崩壞的象徵。;
+setTextbox:hide;
+changeScene:結局告示.txt;

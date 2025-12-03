@@ -1,0 +1,5 @@
+Game_name:華爾街 2008: 最後的狂歡;
+Game_key:85e2d20b0f0828;
+Title_img:WebGAL_New_Enter_Image.webp;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
